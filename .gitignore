@@ -1,0 +1,5 @@
+.venvWASSEL/
+.env
+__pycache__/
+*.pyc
+
